@@ -1,3 +1,5 @@
+# Bangla Sign Language Detection using CNN
+
 ### clone the github repo
 git clone ....
 cd bd-sign-language
