@@ -10,8 +10,8 @@ The dataset includes 1500 grayscale images from 10 subjects. The ```dataset``` f
 
 ## Demo
 - [demo 1](https://drive.google.com/file/d/1f21jRfnnHEZqFPgOaFMk0BXiBL5e9APk/view?usp=sharing)
-- [demo 2](https://drive.google.com/file/d/1ItHmSFEUjFuxchP08wDxVPeLQqR6hhdb/view?usp=sharing). 
-**Note: The demos are based on our old codebase. This repository is updated.**
+- [demo 2](https://drive.google.com/file/d/1ItHmSFEUjFuxchP08wDxVPeLQqR6hhdb/view?usp=sharing) <br />
+***Note: The demos are based on our old codebase. This repository is updated.**
 
 ## Citation
 If this code or part of it, dataset helps you in your research, please cite our paper: 
