@@ -2,7 +2,7 @@
 
 This repository is the implementation of [Real-time Vision-based Bangla Sign Language Detection using Convolutional Neural Network](https://ieeexplore.ieee.org/document/9708141) at ICACC 2021.   
 
-##Abstract
+## Abstract
 
 ### clone the github repo
 git clone ....
