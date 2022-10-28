@@ -7,8 +7,9 @@ Sign Language is an essential means of communication for people with speech and 
 
 ## Installation
 - clone this github repo:
+```
 git clone 
-
+```
 ### create and activate virtual environment
 
 python3 -m venv env
