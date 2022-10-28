@@ -1,5 +1,4 @@
 # Bangla Sign Language Detection using CNN
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository is the implementation of [Real-time Vision-based Bangla Sign Language Detection using Convolutional Neural Network](https://ieeexplore.ieee.org/document/9708141) at ICACC 2021.   
 
