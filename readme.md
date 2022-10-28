@@ -8,7 +8,7 @@ Sign Language is an essential means of communication for people with speech and 
 ## Installation
 - clone this github repo:
 ```
-git clone 
+git clone https://github.com/riyadRafiq/bangla-sign-language-detection.git
 ```
 ### create and activate virtual environment
 
